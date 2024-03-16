@@ -1,8 +1,8 @@
-# Hill_Cipher
-AIM:
+## Hill_Cipher
+## AIM:
 To develop a simple Python program to implement Hill Cipher.
 
-DESIGN STEPS:
+## DESIGN STEPS:
 Step 1:
 Design of Hill Cipher algorithnm
 
@@ -12,7 +12,7 @@ Implementation using C or python code
 Step 3:
 Testing algorithm with different key values.
 
-PROGRAM:
+## PROGRAM:
 ```
 import numpy as np
 
@@ -61,8 +61,8 @@ print("Encrypted Text:", encrypted_text)
 
 ```
 
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/divz2711/Hill_Cipher/assets/121245222/2b1a6a85-9a1b-48b4-a180-4820521822bb)
 
-RESULT:
+## RESULT:
 The program is executed successfully
